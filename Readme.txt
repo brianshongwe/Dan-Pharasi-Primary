@@ -1,6 +1,6 @@
 Thanks for downloading this template!
 
-Template Name: Medilab
-Template URL: https://bootstrapmade.com/medilab-free-medical-bootstrap-theme/
+Template Name: FlexStart
+Template URL: https://bootstrapmade.com/flexstart-bootstrap-startup-template/
 Author: BootstrapMade.com
 License: https://bootstrapmade.com/license/
